@@ -1,0 +1,22 @@
+Week 3
+
+- Worked on UI Interface Design on Figma for group report
+- Decided to use NextJs and Tailwind CSS for frontend
+- Was assigned to do Login page
+
+Week 4
+- Login page
+- Forgot Password page
+
+Week 5
+- Help page
+- List Your Spot page
+- Parking Spot Details page
+- Describe Parking Spot page
+- Set Price page
+- Spot Listed Confirmation page
+
+Week 9
+- Wallet Page
+- Withdraw Modal
+- Confirm Modal

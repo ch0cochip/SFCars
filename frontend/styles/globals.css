@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main {
+  width: 100vw;
+  min-height: 100vh;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  pointer-events: none;
+  background-color: #f2f1f0;
+}
+
+html,
+body {
+  font-family: "Poppins", cursive;
+}
+
+/* Tailwind Styles */
+
+.app {
+  @apply relative z-10 flex justify-center items-center flex-col max-w-8xl mx-auto sm:px-16 px-6;
+}
+
+.orange_btn {
+  @apply rounded-full border border-black bg-custom-orange py-1.5 px-5 text-white transition-all hover:bg-white hover:text-black text-center font-semibold text-xl font-inter flex items-center justify-center;
+}
+
+.blue_btn {
+  @apply rounded-full border border-black bg-custom-blue py-1.5 px-5 text-white transition-all hover:bg-white hover:text-black text-center font-semibold text-xl font-inter flex items-center justify-center;
+}
+
+.logo_text {
+  @apply max-sm:hidden font-semibold text-5xl text-black tracking-wide;
+}
+
+.landing_page_text {
+  @apply max-sm:hidden font-semibold text-7xl text-black;
+  font-family: "Bebas Neue", cursive;
+}
+
+.heading_text {
+  @apply font-semibold text-3xl text-black tracking-wide;
+}
+
+.error_text {
+  @apply font-semibold text-xs text-red-500 tracking-wide;
+}
+
+.dropdown {
+  @apply absolute right-0 top-full mt-3 w-full p-5 rounded-lg bg-white min-w-[210px] flex flex-col gap-2 justify-end items-end;
+}
+
+.dropdown_link {
+  @apply text-sm font-inter text-gray-700 hover:text-gray-500 font-medium;
+}
+
+.flex-center {
+  @apply flex justify-center items-center;
+}
+
+.flex-start {
+  @apply flex justify-start items-start;
+}
+
+.flex-end {
+  @apply flex justify-end items-center;
+}
+
+.flex-between {
+  @apply flex justify-between items-center;
+}
+
+.image-container {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-20%, -60%);
+  z-index: 1;
+}
+
+.slide-enter {
+  transform: translateX(100%);
+}
+.slide-enter-active {
+  transform: translateX(0);
+  transition: transform 300ms;
+}
+
+.slide-exit {
+  transform: translateX(0);
+}
+
+.slide-exit-active {
+  transform: translateX(100%);
+  transition: transform 300ms;
+}
+
+/* For Chrome, Safari and Opera */
+::-webkit-scrollbar {
+  width: 8px; /* width of the entire scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* color of the tracking area */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f89c3c; /* color of the scroll thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #f89c3c; /* color of the scroll thumb on hover */
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #888 #f1f1f1;
+}

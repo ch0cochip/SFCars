@@ -1,0 +1,65 @@
+Week 1
+
+We formed/created the group and selected the Scrum Master (Mani). Mani created
+the Jira site and together we decided on Project 5 Car Space Rental. We
+discussed our preferred languages and libraries and decided on a Python backend
+and React/JavaScript frontend. We also discussed initial ideas for novel
+functionalities (including a map). We decided on a weekly date to meet up and
+created the document for the project proposal.
+
+Week 2
+
+We assigned work for the proposal together. I created all the issues in Jira
+and organised them into specific epics for each of our functionalities. I also
+created the system architecture diagram and wrote short descriptions for each
+section as well as the external actors for the proposal.
+
+Week 3
+
+We finished off writing the proposal and Anthony and I started scaffolding the
+backend. I did some research into how MongoDB worked with Python and set up an
+Atlas cluster for our project development. I also did some research into how
+Flask Blueprints work so that our file structure can be more modular
+
+Week 4
+
+We worked on completing sprint 1. I completed the routes, database access and
+testing for registering, updating and deleting car spaces as well as user
+management routes and general GET routes. I also added tokening and wrote up
+the documentation for our api and database in a markdown file as we decided
+swagger was unnecessary for our project.
+
+Week 5
+
+Worked on making sure enough issues were completed for the demo. Performed the
+demo and completed the retropsective and discussed how we were going to spread
+out work for sprint 2.
+
+Week 6
+
+Discussed where we are at with finishing sprint 1, set deadlines for finishing
+leftover issues. Worked on documentation and discussed how booking should work
+for recurring bookings
+
+Week 7
+
+Worked on implementing admin users, added testing, implementation and
+documentation for registering an admin user and admin bypass for updating and
+deleting any bookings or listings
+
+Week 8
+
+Worked on About page for the frontend, fixed css for the sidebar on the faq,
+register and login pages. Fixed last minute bug with bookings call on frontend
+and backend so that it'd work for the demo.
+
+Week 9
+
+Implemented analytics functionality in the backend as well as the rating and
+reviews routes and testing. Made small changes to listing creation to better
+suit frontend.
+
+Week 10
+
+Worked on slides for the final demo, system architecture information for the
+report and doing a final cleanup of the documentation and code in the backend.

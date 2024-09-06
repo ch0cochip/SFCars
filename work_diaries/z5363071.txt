@@ -1,0 +1,61 @@
+Week 1:
+    -> Formed group
+    -> Chose group name
+    -> Selected scrum master
+    -> Picked Car Space Rental System (Project 5) as our project
+    -> Finished all the intitial Jira Setup and added all group members
+    -> Familarised ourselves with the project specification
+    -> Brainstorming what novel features we can add to the project
+    -> Discussed what stack everyone is comfortable with, and assigned roles accordingly
+
+Week 2:
+    -> Made the initial template for the report in overleaf
+    -> Assigned everyone parts of the proposal to work on
+    -> Finished background section of the report
+    -> Finished competitors analysis for other car space rental systems in the market
+    -> Slowly adding all the parts that other group members worked on to the final report
+    -> Formatting the report according to the specs
+
+Week 3:
+    -> Finished User Stories
+    -> Finished Acceptence Criteria
+    -> Inputted all user stories in Jira
+    -> User stories added to report
+    -> Interface done
+    -> Flow Diagram done
+    -> System Architecture diagram done
+    -> Started adding child issues to tickets
+    -> Submitted Report
+
+Week 4:
+    -> Finished Landing Page
+    -> Finished Registration Page
+    -> Started the Template for the Search Page
+    -> Editted Login Page, and connected it with the Backend
+
+Week 5:
+    -> Sprint Demo
+    -> Finished Search Page
+    -> Finished Details Page
+    -> Finished Payments Page
+    -> Implemented Google Maps API for Map and Autocomplete searching
+
+Week 6:
+    -> Vehicle Details Page
+    -> Edit Vehicle Details
+    -> Payment Details Page
+    -> Edit Payment Details
+
+Week 7:
+    -> Profile Page
+    -> Edit Your Profile
+
+Week 8:
+    -> Manage your bookings Page
+    -> Inbox Page
+Week 9:
+    -> Analytics Page
+    -> Clean up of Code
+    -> Docker Setup
+Week 10:
+    -> Final Report

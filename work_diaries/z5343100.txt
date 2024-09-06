@@ -1,0 +1,15 @@
+week3
+- Working on UI Interface Design by Figma, i was assigned to login/register/profile/paymentdetails
+- and so on
+- Was assigned to do search page
+
+Week 5
+- roughly done profile page, implement the upload photos funtionality, 
+- and button for user to edit their profile, successfuly make it connect 
+- with backend
+- roughly done payment details, vehicle details
+
+Week 9
+- roughly done manage booking page, make it two part, one is current booking that 
+- user can edit and cancel, while the other is review past booking to show the 
+- bookings that already over renting period.

@@ -1,0 +1,91 @@
+-------------------------------------------------------------------------------
+WEEK 1
+
+DURING LAB
+- Group formed and named.
+- Scrum Master selected.
+- Basic setups following Moodle
+- Decided on project topic with other group members, decided to go with Topic 5
+Car Space Rental system.
+- Brainstorming on novel features
+- Discussed what software tools and libraries we can use and allocated everyone
+to their comfort zones
+
+OUTSIDE OF LAB
+- Researched other examples on the car space rental system and made notes on their 
+colour schemes and overall functionality flow such as how user registration progressed, 
+or listing cars progressed.
+- Created user stories for features that I determined to be apart of the minimum 
+viable product for the first/second sprint. Also included acceptance criteria 
+for these too.
+- Started looking at storyboards for these features too.
+------------------------------------------------------------------------------
+WEEK 2
+
+DURING LAB
+- Organised workload, rough draft of sprints, starting to flesh out the project
+proposal
+
+OUTSIDE OF LAB
+- Finished the user stories and categorised each user story into the separate
+sprints.
+- Finished a rough draft of the storyboards, pretty sure everything has been
+covered.
+- Researching MongoDB and made rough schema on how each collection of data
+would interact with each other.
+------------------------------------------------------------------------------
+WEEK 3
+
+- Started researching and discussing MongoDB with backend 
+    - Concurrency and any other issues that may arise with MongoDB from other
+    people's experiences on the internet.
+- API Endpoints
+- Planning todos for certain backend functions
+- Help with proposal
+- Starting developing user_registration functionality and tests
+    - Playing around with mongomock 
+
+------------------------------------------------------------------------------
+WEEK 4
+
+- Finished user_registration, user_login and booking routes
+- Updated documentation
+
+------------------------------------------------------------------------------
+WEEK 5
+
+- Sprint demonstration
+- Started on completed-bookings route 
+- Planning payment integration
+
+------------------------------------------------------------------------------
+WEEK 6
+
+- Completed completed-bookings route
+- Almost finished payment integration on backend
+
+------------------------------------------------------------------------------
+WEEK 7
+
+- Mock payment done for backend 
+    - Need to consider refunding process in Sprint 3
+- Starting on Recurring Bookings
+
+-------------------------------------------------------------------------------
+WEEK 8
+
+- Continued working on recurring bookings
+- Starting on recurring payments
+
+-------------------------------------------------------------------------------
+WEEK 9
+
+- Finished backend for recurring bookings
+- Planning recurring payments further
+
+-------------------------------------------------------------------------------
+WEEK 10
+
+- Finished profile pictures for users
+- Automated inbox messages for user's payments, bookings, reviews.
+- Cleaning up backend code for final submission, left recurring payments.
